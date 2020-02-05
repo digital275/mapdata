@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cities</name>
+    <Style id="icon-1899-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Daytona Beach</name>
+      <description><![CDATA[Year: 2012<br>Who Visited: Family<br>description: ]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2012.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Family</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.0228331,29.2108147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Augustine</name>
+      <description><![CDATA[Year: 2012<br>Who Visited: Family<br>description: ]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2012.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Family</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.3124341,29.9012437,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Savannah</name>
+      <description><![CDATA[Year: 2012<br>Who Visited: Family<br>description: ]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2012.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Family</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.0998342,32.0835407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chattanooga</name>
+      <description><![CDATA[Year: 2012<br>Who Visited: Family<br>description: ]]></description>
+      <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2012.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Family</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.3096801,35.0456297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington</name>
+      <description><![CDATA[Year: 2007<br>Who Visited: Jeff<br>description: ]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2007.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Jeff</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.0368707,38.9071923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hana</name>
+      <description><![CDATA[Year: 2008<br>Who Visited: Sarah and Jeff<br>description: ]]></description>
+      <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Year">
+          <value>2008.0</value>
+        </Data>
+        <Data name="Who Visited">
+          <value>Sarah and Jeff</value>
+        </Data>
+        <Data name="description">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -155.988407,20.757508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
